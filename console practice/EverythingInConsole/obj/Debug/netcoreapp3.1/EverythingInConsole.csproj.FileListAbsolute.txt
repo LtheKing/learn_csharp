@@ -1,0 +1,27 @@
+E:\aldi\learn\.net core\console practice\EverythingInConsole\bin\Debug\netcoreapp3.1\EverythingInConsole.exe
+E:\aldi\learn\.net core\console practice\EverythingInConsole\bin\Debug\netcoreapp3.1\EverythingInConsole.deps.json
+E:\aldi\learn\.net core\console practice\EverythingInConsole\bin\Debug\netcoreapp3.1\EverythingInConsole.runtimeconfig.json
+E:\aldi\learn\.net core\console practice\EverythingInConsole\bin\Debug\netcoreapp3.1\EverythingInConsole.runtimeconfig.dev.json
+E:\aldi\learn\.net core\console practice\EverythingInConsole\bin\Debug\netcoreapp3.1\EverythingInConsole.dll
+E:\aldi\learn\.net core\console practice\EverythingInConsole\bin\Debug\netcoreapp3.1\EverythingInConsole.pdb
+E:\aldi\learn\.net core\console practice\EverythingInConsole\obj\Debug\netcoreapp3.1\EverythingInConsole.csprojAssemblyReference.cache
+E:\aldi\learn\.net core\console practice\EverythingInConsole\obj\Debug\netcoreapp3.1\EverythingInConsole.AssemblyInfoInputs.cache
+E:\aldi\learn\.net core\console practice\EverythingInConsole\obj\Debug\netcoreapp3.1\EverythingInConsole.AssemblyInfo.cs
+E:\aldi\learn\.net core\console practice\EverythingInConsole\obj\Debug\netcoreapp3.1\EverythingInConsole.dll
+E:\aldi\learn\.net core\console practice\EverythingInConsole\obj\Debug\netcoreapp3.1\EverythingInConsole.pdb
+E:\aldi\learn\c#\console practice\EverythingInConsole\bin\Debug\netcoreapp3.1\EverythingInConsole.exe
+E:\aldi\learn\c#\console practice\EverythingInConsole\bin\Debug\netcoreapp3.1\EverythingInConsole.deps.json
+E:\aldi\learn\c#\console practice\EverythingInConsole\bin\Debug\netcoreapp3.1\EverythingInConsole.runtimeconfig.json
+E:\aldi\learn\c#\console practice\EverythingInConsole\bin\Debug\netcoreapp3.1\EverythingInConsole.runtimeconfig.dev.json
+E:\aldi\learn\c#\console practice\EverythingInConsole\bin\Debug\netcoreapp3.1\EverythingInConsole.dll
+E:\aldi\learn\c#\console practice\EverythingInConsole\bin\Debug\netcoreapp3.1\EverythingInConsole.pdb
+E:\aldi\learn\c#\console practice\EverythingInConsole\obj\Debug\netcoreapp3.1\EverythingInConsole.csprojAssemblyReference.cache
+E:\aldi\learn\c#\console practice\EverythingInConsole\obj\Debug\netcoreapp3.1\EverythingInConsole.AssemblyInfoInputs.cache
+E:\aldi\learn\c#\console practice\EverythingInConsole\obj\Debug\netcoreapp3.1\EverythingInConsole.AssemblyInfo.cs
+E:\aldi\learn\c#\console practice\EverythingInConsole\obj\Debug\netcoreapp3.1\EverythingInConsole.dll
+E:\aldi\learn\c#\console practice\EverythingInConsole\obj\Debug\netcoreapp3.1\EverythingInConsole.pdb
+E:\aldi\learn\c#\console practice\EverythingInConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\aldi\learn\c#\console practice\EverythingInConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Schema.dll
+E:\aldi\learn\c#\console practice\EverythingInConsole\obj\Debug\netcoreapp3.1\EverythingInConsole.csproj.CopyComplete
+E:\aldi\learn\c#\console practice\EverythingInConsole\obj\Debug\netcoreapp3.1\EverythingInConsole.csproj.CoreCompileInputs.cache
+E:\aldi\learn\c#\console practice\EverythingInConsole\obj\Debug\netcoreapp3.1\EverythingInConsole.genruntimeconfig.cache

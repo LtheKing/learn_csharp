@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zqy2Oo55B+EEolSXsNTm/QpnlqHfM/6Ye3mGP5VizyigVwjnegU21PqKK7xFEpjY6/3+X/RGyAukAot4kQcg9g==",
+  "success": true,
+  "projectFilePath": "E:\\aldi\\learn\\c#\\console practice\\EverythingInConsole\\EverythingInConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MKI\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\MKI\\.nuget\\packages\\newtonsoft.json.schema\\3.0.13\\newtonsoft.json.schema.3.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
